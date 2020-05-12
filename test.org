@@ -1,0 +1,30 @@
+# -*- coding:utf-8 -*-
+#+LANGUAGE:  zh
+#+TITLE:     test.org
+#+AUTHOR:    
+#+EMAIL:     dingyi342@outlook.com
+#+DATE:     2020-05-12 周二
+#+DESCRIPTION:test.org
+#+KEYWORDS: 
+#+TAGS:
+#+FILETAGS: 
+#+OPTIONS:   H:2 num:nil toc:t \n:t @:t ::t |:t ^:nil -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil 
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{PingFang SC}
+#+REVEAL_TRANS: None/Fade/Slide/Convex/Concave/Zoom
+#+HUGO_BASE_DIR: ./
+#+HUGO_TAGS: 随笔 诗词
+#+HUGO_CATEGORIES: 计算机
+#+HUGO_DRAFT: false
+#+HUGO_AUTO_SET_LASTMOD: t
+* 与子同袍
+  使用easy-hugo 管理你的博客.
+* 天天向上
+* 临江仙.夜归临皋
+  长恨此身非我有,何时忘却营营
+  夜阑风静毂纹平.
+  小舟从此逝,江海寄余生.
+  夜饮东坡醒复醉,归来仿佛三更.
+  江海寄余生.
+  
